@@ -1,0 +1,39 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Env / secrets
+.env
+.env.local
+*.pem
+
+# Runtime (dev repo)
+.dev/
+
+# Go
+/bin/
+/vendor/
+*.exe
+*.test
+
+# Node
+node_modules/
+dist/
+coverage/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Java
+target/
+
+# .NET
+bin/
+obj/
+
+# Build artifacts
+*.log

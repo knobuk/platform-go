@@ -1,4 +1,4 @@
-module github.com/knobuk/platform
+module github.com/knobuk/platform-go
 
 go 1.23
 
